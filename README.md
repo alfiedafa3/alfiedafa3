@@ -1,30 +1,62 @@
-![Banner](assets/banner.svg)
-
 <div align="center">
 
-```
-████████████████████████████████████████████
-█  CYBERSECURITY  •  SOFTWARE  •  AI  █
-████████████████████████████████████████████
-```
+![Banner](assets/banner.svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-alfiedafa3-FF1744?style=flat-square&logo=github&logoColor=white)](https://github.com/alfiedafa3)
-[![Status](https://img.shields.io/badge/Status-Building-00E5FF?style=flat-square)](https://github.com/alfiedafa3)
+`◉ SYSTEM ONLINE` `SEC.TRACK: INITIALIZING` `NODE: ALFIEDAFA3`
+
+[![GitHub](https://img.shields.io/badge/GitHub-alfiedafa3-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfiedafa3)
+[![Build Mode](https://img.shields.io/badge/BUILD_MODE-ACTIVE-050505?style=for-the-badge&labelColor=FF1744)](https://github.com/alfiedafa3)
+[![Profile Version](https://img.shields.io/badge/PROFILE-v2.0-050505?style=for-the-badge&labelColor=8B5CF6)](https://github.com/alfiedafa3)
+
+<br>
+
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=FF1744&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;AI+Builder;Learning+How+Systems+Break;Learning+How+To+Defend+Them;Building+Real+Projects)](https://git.io/typing-svg)
 
 </div>
 
----
+<table>
+<tr>
+<td width="52%">
 
-## 🔴 Current Status
+### `DAFFA // CONTROL PANEL`
 
-**Building:** TwoOfUs — AI-powered relationship companion  
-**Learning:** Cybersecurity Fundamentals, Linux, Networking  
-**Exploring:** Web Security, Defensive Security, Security Automation  
-**Next:** Personal Security Lab  
+| Signal | Current mode |
+|---|---|
+| 🔴 BUILDING | **TwoOfUs** |
+| 🔵 LEARNING | **Cybersecurity** |
+| 🟣 EXPLORING | **Web Security + Linux** |
+| 🟢 STATUS | **Online / Building** |
+| ⚪ NEXT | **Personal Security Lab** |
 
----
+</td>
+<td width="48%">
 
-## 🛠️ Technology Stack
+### `SOCIAL COMMAND BAR`
+
+[![GitHub](https://img.shields.io/badge/OPEN_GITHUB-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfiedafa3)
+
+```text
+$ whoami
+> Cybersecurity Enthusiast
+> Full-Stack Developer
+> AI Builder
+> Problem Solver
+```
+
+</td>
+</tr>
+</table>
+
+`────────────── ◉ WEB.NODE ◉ ──────────────`
+
+## `01 // IDENTITY`
+
+**DAFFA ALFIE**<br>
+Cybersecurity-focused developer exploring the intersection of security, software engineering, and AI.
+
+Currently building real-world applications while developing practical knowledge in Linux, networking, web security, backend engineering, and defensive security.
+
+## `02 // TECHNOLOGY ARSENAL`
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -49,61 +81,98 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)
 
----
+`────────────── ◉ DEV.NODE ◉ ──────────────`
 
-## 📦 Featured Project
+## `03 // PROJECT DATABASE` 🕷️
 
-### [TwoOfUs](https://github.com/alfiedafa3/VD-TwoOfUs)
+<table>
+<tr>
+<td width="30%" align="center">
 
-**AI-powered relationship companion** built with modern full-stack technologies.
+### `TWO OF US`
 
-Helps partners communicate better through AI-assisted story summaries, context understanding, guided missions, and relationship insights.
+`AI × RELATIONSHIPS`
 
-**Stack:** Next.js • TypeScript • Supabase • AI  
-**Status:** Active Development
+🔴 `ACTIVE DEVELOPMENT`
 
----
+</td>
+<td width="70%">
 
-## 📊 GitHub Stats
+**TwoOfUs** is an AI-powered private relationship companion for shared stories, context, guided missions, and relationship insights.
+
+**STACK**
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)](https://supabase.io/) ![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+
+[![VISIT WEBSITE](https://img.shields.io/badge/VISIT_WEBSITE-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vd-two-of-dp1hy335h-alfiedafa3-3381s-projects.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+`────────────── ◉ SEC.TRACK ◉ ──────────────`
+
+## `04 // SECURITY MISSION TREE` 🛡️
+
+| Node | Mission | Signal |
+|---:|---|---|
+| `01` | **Cybersecurity Fundamentals** | ![Current](https://img.shields.io/badge/CURRENT-FF1744?style=flat-square) |
+| `02` | **Linux** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square&logo=linux&logoColor=black) |
+| `03` | **Networking** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square) |
+| `04` | **Web Security** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square) |
+| `05` | **Defensive Security** | ![Next](https://img.shields.io/badge/NEXT-8B5CF6?style=flat-square) |
+| `06` | **Security Automation** | ![Planned](https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&labelColor=050505) |
+| `07` | **Personal Security Lab** | ![Planned](https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&labelColor=050505) |
+
+## `05 // SECURITY LAB` 🧪
+
+| Module | State |
+|---|---|
+| Web Security | `PLANNED` |
+| Network Analysis | `PLANNED` |
+| Linux Security | `PLANNED` |
+| Defensive Security | `PLANNED` |
+| Vulnerability Assessment | `PLANNED` |
+| Security Automation | `PLANNED` |
+
+**NEXT OBJECTIVE:** Build an isolated hands-on security environment.
+
+`────────────── ◉ BUILD.MODE ◉ ──────────────`
+
+## `06 // CONTRIBUTION ARCADE` 🕸️
+
+`SNAKE.RUNNER :: CONTRIBUTION CELLS :: OUTPUT BRANCH`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfiedafa3&show_icons=true&theme=dark&bg_color=050505&title_color=FF1744&text_color=E8E8E8&icon_color=00E5FF&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiedafa3&layout=compact&theme=dark&bg_color=050505&title_color=FF1744&text_color=E8E8E8&hide_border=true)
-
-</div>
-
----
-
-## 🛡️ Security Roadmap
-
-```
-CURRENT     → Cybersecurity Fundamentals
-              ↓
-LEARNING    → Linux & Networking
-              ↓
-LEARNING    → Web Security & OWASP
-              ↓
-NEXT        → Defensive Security
-              ↓
-PLANNED     → Security Automation
-              ↓
-PLANNED     → Personal Security Lab
-```
-
----
-
-## 🕷️ Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/alfiedafa3/alfiedafa3/output/github-contribution-grid-snake-dark.svg)
 
----
+</div>
+
+## `07 // BUILD LOG` 📟
+
+```text
+daffa@cyber-lab:~$ cat build.log
+
+[2026] PROFILE.SYS
+    Building public developer identity
+
+[2026] TWOOFUS.APP
+    AI-powered relationship companion
+
+[NEXT] SECURITY.LAB
+    Initializing practical security environment...
+```
+
+`────────────── ◉ CONNECTION.NODE ◉ ──────────────`
+
+## `08 // CONNECTION`
+
+[![GitHub](https://img.shields.io/badge/GITHUB-alfiedafa3-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfiedafa3) [![VISIT WEBSITE](https://img.shields.io/badge/VISIT_WEBSITE-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vd-two-of-dp1hy335h-alfiedafa3-3381s-projects.vercel.app/)
 
 <div align="center">
 
-**Building. Learning. Securing.**
+`BUILD DEEPER.` `LEARN FASTER.` `SECURE BETTER.`
 
-[GitHub](https://github.com/alfiedafa3) • Security Focused • Always Learning
+**Thanks for visiting. Keep building.**
 
 </div>

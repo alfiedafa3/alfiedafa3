@@ -36,13 +36,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
           # only the graph will be rendered in the gh-pages branch
-          ghtoken: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/output/github-contribution-grid-snake.svg & https://raw.githubusercontent.com/<github_user>/<repository>/output/github-contribution-grid-snake-dark.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
