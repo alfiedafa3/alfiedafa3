@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(to bottom, #080B14 0%, #0D1324 50%, #080B14 100%);">
+  <defs>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00F5FF;stop-opacity:0.05" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0.05" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main panel background -->
+  <rect x="10" y="10" width="880" height="260" fill="#0D1324" stroke="#00F5FF" stroke-width="1.5" opacity="0.7"/>
+  <rect x="10" y="10" width="880" height="260" fill="url(#panelGrad)"/>
+  
+  <!-- Header section -->
+  <line x1="10" y1="40" x2="890" y2="40" stroke="#8B5CF6" stroke-width="1" opacity="0.5"/>
+  <text x="25" y="32" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#8993A4" letter-spacing="2">SYSTEM STATUS 2026</text>
+  
+  <!-- Column separators -->
+  <line x1="230" y1="40" x2="230" y2="270" stroke="#8B5CF6" stroke-width="0.5" opacity="0.3"/>
+  <line x1="450" y1="40" x2="450" y2="270" stroke="#8B5CF6" stroke-width="0.5" opacity="0.3"/>
+  <line x1="670" y1="40" x2="670" y2="270" stroke="#00F5FF" stroke-width="0.5" opacity="0.3"/>
+  
+  <!-- Column 1: Status & Current Track -->
+  <text x="25" y="65" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">STATUS</text>
+  <circle cx="32" cy="85" r="2.5" fill="#39FF88"/>
+  <text x="45" y="87" font-family="'Courier New', monospace" font-size="11" fill="#39FF88" font-weight="bold">ONLINE</text>
+  
+  <text x="25" y="125" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">CURRENT TRACK</text>
+  <text x="25" y="145" font-family="'Courier New', monospace" font-size="13" fill="#00F5FF" font-weight="bold">CYBERSECURITY</text>
+  
+  <text x="25" y="185" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">FOCUS AREA</text>
+  <text x="25" y="205" font-family="'Courier New', monospace" font-size="12" fill="#00F5FF">Fundamentals</text>
+  
+  <!-- Column 2: Building & Learning -->
+  <text x="245" y="65" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">BUILDING</text>
+  <text x="245" y="85" font-family="'Courier New', monospace" font-size="13" fill="#00F5FF" font-weight="bold">TwoOfUs</text>
+  <text x="245" y="105" font-family="'Courier New', monospace" font-size="9" fill="#8993A4">AI Companion</text>
+  
+  <text x="245" y="145" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">LEARNING</text>
+  <text x="245" y="165" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">Web Security</text>
+  <text x="245" y="180" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">Linux • Networking</text>
+  <text x="245" y="195" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">Backend Eng</text>
+  
+  <!-- Column 3: Exploring & Next -->
+  <text x="465" y="65" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">EXPLORING</text>
+  <text x="465" y="85" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">Defensive Sec</text>
+  <text x="465" y="100" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">Security Auto</text>
+  <text x="465" y="115" font-family="'Courier New', monospace" font-size="11" fill="#E6F1FF">AI Engineering</text>
+  
+  <text x="465" y="155" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">NEXT OBJECTIVE</text>
+  <text x="465" y="175" font-family="'Courier New', monospace" font-size="13" fill="#8B5CF6" font-weight="bold">SECURITY LAB</text>
+  <text x="465" y="195" font-family="'Courier New', monospace" font-size="9" fill="#8993A4">Personal environment</text>
+  
+  <!-- Column 4: Progress indicator -->
+  <text x="685" y="65" font-family="'Courier New', monospace" font-size="10" fill="#8993A4" letter-spacing="1">JOURNEY</text>
+  
+  <!-- Progress line -->
+  <line x1="685" y1="85" x2="685" y2="230" stroke="#8B5CF6" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Current point -->
+  <circle cx="685" cy="95" r="4" fill="#00F5FF" opacity="0.9"/>
+  <text x="710" y="100" font-family="'Courier New', monospace" font-size="9" fill="#00F5FF">01 CURRENT</text>
+  
+  <!-- Learning points -->
+  <circle cx="685" cy="135" r="3" fill="#8B5CF6" opacity="0.6"/>
+  <text x="710" y="140" font-family="'Courier New', monospace" font-size="9" fill="#8B5CF6">02 LEARNING</text>
+  
+  <circle cx="685" cy="170" r="3" fill="#8B5CF6" opacity="0.6"/>
+  <text x="710" y="175" font-family="'Courier New', monospace" font-size="9" fill="#8B5CF6">03 LEARNING</text>
+  
+  <!-- Next point -->
+  <circle cx="685" cy="205" r="3" fill="#8993A4" opacity="0.5"/>
+  <text x="710" y="210" font-family="'Courier New', monospace" font-size="9" fill="#8993A4">04 NEXT</text>
+  
+  <!-- Bottom accent line -->
+  <line x1="10" y1="265" x2="890" y2="265" stroke="#00F5FF" stroke-width="1" opacity="0.4"/>
+</svg>
