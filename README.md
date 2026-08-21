@@ -14,7 +14,8 @@
 
 </div>
 
-<table>
+<div align="center">
+<table align="center">
 <tr>
 <td width="52%">
 
@@ -46,8 +47,11 @@ $ whoami
 </td>
 </tr>
 </table>
+</div>
 
 `────────────── ◉ WEB.NODE ◉ ──────────────`
+
+<div align="center">
 
 ## `01 // IDENTITY`
 
@@ -55,6 +59,10 @@ $ whoami
 Cybersecurity-focused developer exploring the intersection of security, software engineering, and AI.
 
 Currently building real-world applications while developing practical knowledge in Linux, networking, web security, backend engineering, and defensive security.
+
+</div>
+
+<div align="center">
 
 ## `02 // TECHNOLOGY ARSENAL`
 
@@ -81,11 +89,15 @@ Currently building real-world applications while developing practical knowledge 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)
 
+</div>
+
 `────────────── ◉ DEV.NODE ◉ ──────────────`
+
+<div align="center">
 
 ## `03 // PROJECT DATABASE` 🕷️
 
-<table>
+<table align="center">
 <tr>
 <td width="30%" align="center">
 
@@ -109,34 +121,44 @@ Currently building real-world applications while developing practical knowledge 
 </tr>
 </table>
 
+</div>
+
 `────────────── ◉ SEC.TRACK ◉ ──────────────`
+
+<div align="center">
 
 ## `04 // SECURITY MISSION TREE` 🛡️
 
-| Node | Mission | Signal |
-|---:|---|---|
-| `01` | **Cybersecurity Fundamentals** | ![Current](https://img.shields.io/badge/CURRENT-FF1744?style=flat-square) |
-| `02` | **Linux** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square&logo=linux&logoColor=black) |
-| `03` | **Networking** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square) |
-| `04` | **Web Security** | ![Learning](https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square) |
-| `05` | **Defensive Security** | ![Next](https://img.shields.io/badge/NEXT-8B5CF6?style=flat-square) |
-| `06` | **Security Automation** | ![Planned](https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&labelColor=050505) |
-| `07` | **Personal Security Lab** | ![Planned](https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&labelColor=050505) |
+<table align="center">
+<tr><th>Node</th><th>Mission</th><th>Signal</th></tr>
+<tr><td><code>01</code></td><td><strong>Cybersecurity Fundamentals</strong></td><td><img src="https://img.shields.io/badge/CURRENT-FF1744?style=flat-square" alt="Current"></td></tr>
+<tr><td><code>02</code></td><td><strong>Linux</strong></td><td><img src="https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Learning"></td></tr>
+<tr><td><code>03</code></td><td><strong>Networking</strong></td><td><img src="https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square" alt="Learning"></td></tr>
+<tr><td><code>04</code></td><td><strong>Web Security</strong></td><td><img src="https://img.shields.io/badge/LEARNING-00E5FF?style=flat-square" alt="Learning"></td></tr>
+<tr><td><code>05</code></td><td><strong>Defensive Security</strong></td><td><img src="https://img.shields.io/badge/NEXT-8B5CF6?style=flat-square" alt="Next"></td></tr>
+<tr><td><code>06</code></td><td><strong>Security Automation</strong></td><td><img src="https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&amp;labelColor=050505" alt="Planned"></td></tr>
+<tr><td><code>07</code></td><td><strong>Personal Security Lab</strong></td><td><img src="https://img.shields.io/badge/PLANNED-A1A1AA?style=flat-square&amp;labelColor=050505" alt="Planned"></td></tr>
+</table>
 
 ## `05 // SECURITY LAB` 🧪
 
-| Module | State |
-|---|---|
-| Web Security | `PLANNED` |
-| Network Analysis | `PLANNED` |
-| Linux Security | `PLANNED` |
-| Defensive Security | `PLANNED` |
-| Vulnerability Assessment | `PLANNED` |
-| Security Automation | `PLANNED` |
+<table align="center">
+<tr><th>Module</th><th>State</th></tr>
+<tr><td>Web Security</td><td><code>PLANNED</code></td></tr>
+<tr><td>Network Analysis</td><td><code>PLANNED</code></td></tr>
+<tr><td>Linux Security</td><td><code>PLANNED</code></td></tr>
+<tr><td>Defensive Security</td><td><code>PLANNED</code></td></tr>
+<tr><td>Vulnerability Assessment</td><td><code>PLANNED</code></td></tr>
+<tr><td>Security Automation</td><td><code>PLANNED</code></td></tr>
+</table>
 
 **NEXT OBJECTIVE:** Build an isolated hands-on security environment.
 
+</div>
+
 `────────────── ◉ BUILD.MODE ◉ ──────────────`
+
+<div align="center">
 
 ## `06 // CONTRIBUTION ARCADE` 🕸️
 
@@ -147,6 +169,10 @@ Currently building real-world applications while developing practical knowledge 
 ![Snake animation](https://raw.githubusercontent.com/alfiedafa3/alfiedafa3/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+</div>
+
+<div align="center">
 
 ## `07 // BUILD LOG` 📟
 
@@ -163,11 +189,17 @@ daffa@cyber-lab:~$ cat build.log
     Initializing practical security environment...
 ```
 
+</div>
+
 `────────────── ◉ CONNECTION.NODE ◉ ──────────────`
+
+<div align="center">
 
 ## `08 // CONNECTION`
 
 [![GitHub](https://img.shields.io/badge/GITHUB-alfiedafa3-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfiedafa3) [![VISIT WEBSITE](https://img.shields.io/badge/VISIT_WEBSITE-FF1744?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vd-two-of-dp1hy335h-alfiedafa3-3381s-projects.vercel.app/)
+
+</div>
 
 <div align="center">
 
