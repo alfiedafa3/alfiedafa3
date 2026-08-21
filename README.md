@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](assets/banner.svg)
+![Banner](assets/banner.png)
 
 `◉ SYSTEM ONLINE` `SEC.TRACK: INITIALIZING` `NODE: ALFIEDAFA3`
 
