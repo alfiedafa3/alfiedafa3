@@ -1,131 +1,196 @@
 <div align="center">
   <br>
-  <h1 style="font-size: 2.5em; color: #00d9ff; text-shadow: 0 0 10px #00d9ff; font-weight: 700; letter-spacing: 2px;">
+  <h1 style="font-size: 2.8em; color: #00d9ff; text-shadow: 0 0 15px #00d9ff; font-weight: 800; letter-spacing: 3px; margin-bottom: 10px;">
     DAFFA ALFIE
   </h1>
   
-  <p style="font-size: 1.2em; color: #b0b0b0; margin-top: 20px; font-weight: 500;">
+  <p style="font-size: 1.1em; color: #b0b0b0; margin: 15px 0; font-weight: 600; letter-spacing: 1px;">
     Cybersecurity Enthusiast • Full-Stack Developer • AI Builder
   </p>
   
-  <p style="color: #888; max-width: 600px; font-size: 1.05em; line-height: 1.6; margin: 20px auto;">
+  <p style="color: #888; max-width: 650px; font-size: 1.02em; line-height: 1.7; margin: 20px auto;">
     Building secure systems. Understanding how they break. Learning to defend them.
   </p>
   
-  <br>
+  <p style="color: #666; font-size: 0.95em; letter-spacing: 2px; margin-top: 5px;">DAFFA // SECURITY & SOFTWARE LAB</p>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-alfiedafa3-00d9ff?style=flat-square&logo=github&logoColor=00d9ff)](https://github.com/alfiedafa3)
-  [![Status](https://img.shields.io/badge/Status-Always%20Learning-00d9ff?style=flat-square)](https://github.com/alfiedafa3)
-  
-  <br><br>
 </div>
 
 ---
 
-## 🎯 About Me
-
-I'm a passionate developer with a strong interest in **cybersecurity**, **full-stack development**, and **artificial intelligence**. I focus on building secure, scalable systems and understanding security principles from the ground up. My journey combines practical development experience with continuous learning in security, networking, and infrastructure.
-
-I believe in **real skills over false claims**—I document what I'm genuinely learning and building, not what I pretend to know.
-
----
-
-## 🛠️ Tech Stack
+## ⚡ Security & Dev Status
 
 <div align="center">
 
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-
-### Development & Frameworks
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
-### Backend & Infrastructure
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-### Tools
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+![Status Dashboard](assets/status-dashboard.svg)
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity Journey
-
-I'm building a foundation in cybersecurity with focus on **defensive security** and **web security**. These are areas I'm actively learning and exploring:
-
-- **Web Security** — Understanding OWASP top vulnerabilities, secure coding practices
-- **Network Security** — Learning TCP/IP fundamentals, network protocols, defensive strategies
-- **Defensive Security** — Security hardening, vulnerability assessment, threat modeling
-- **Linux Security** — System administration, access control, security configuration
-- **Security Automation** — Building tools to enhance security workflows
-- **Vulnerability Assessment** — Identifying and understanding security weaknesses
-
-I approach these areas with intellectual honesty—I'm documenting my learning process, not claiming expertise.
+<table style="width: 100%; border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <h2 style="color: #00d9ff; margin-top: 0; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">🎯 About Me</h2>
+      <p style="color: #c9d1d9; line-height: 1.7; font-size: 0.95em;">
+        I'm building toward a career in <strong>cybersecurity</strong> and <strong>software engineering</strong>, with growing interest in <strong>AI</strong>. I focus on understanding security from first principles and building secure, scalable systems.
+      </p>
+      <p style="color: #c9d1d9; line-height: 1.7; font-size: 0.95em;">
+        <strong>What I'm Focused On:</strong>
+      </p>
+      <ul style="color: #888; font-size: 0.93em; line-height: 1.8; margin: 10px 0;">
+        <li>Cybersecurity fundamentals and defensive practices</li>
+        <li>Full-stack development with modern frameworks</li>
+        <li>Backend engineering and system design</li>
+        <li>AI integration and real-world applications</li>
+      </ul>
+    </td>
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <h2 style="color: #00d9ff; margin-top: 0; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">📊 Quick Stats</h2>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=alfiedafa3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&hide=contribs" alt="GitHub Stats" style="max-width: 100%;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📦 Featured Projects
+<table style="width: 100%; border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <h2 style="color: #00d9ff; margin-top: 0; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">📚 Currently Learning</h2>
+      <p style="color: #888; font-size: 0.93em; margin-bottom: 10px;">Active areas of study and growth:</p>
+      <ul style="color: #c9d1d9; font-size: 0.93em; line-height: 1.9; margin: 0; padding-left: 20px;">
+        <li>Cybersecurity Fundamentals</li>
+        <li>Linux Administration & Security</li>
+        <li>Networking Concepts</li>
+        <li>Web Security & OWASP</li>
+        <li>Backend Engineering</li>
+        <li>Security Automation</li>
+      </ul>
+    </td>
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <h2 style="color: #00d9ff; margin-top: 0; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">🛠️ Tech Stack</h2>
+      
+      <p style="color: #888; font-weight: 600; font-size: 0.85em; margin: 10px 0 6px; text-transform: uppercase;">Languages</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </div>
+      
+      <p style="color: #888; font-weight: 600; font-size: 0.85em; margin: 10px 0 6px; text-transform: uppercase;">Frameworks</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </div>
+      
+      <p style="color: #888; font-weight: 600; font-size: 0.85em; margin: 10px 0 6px; text-transform: uppercase;">Infrastructure</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </div>
+    </td>
+  </tr>
+</table>
 
+---
+
+<h2 style="color: #00d9ff; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">🛡️ Security Roadmap</h2>
+
+<div style="background: rgba(0, 217, 255, 0.03); border-left: 3px solid #00d9ff; padding: 15px 20px; margin: 15px 0;">
+  
+**Cybersecurity Fundamentals** — `CURRENT`
+> Understanding core security concepts, threat models, and defensive principles
+
+**↓**
+
+**Linux Fundamentals & Security** — `LEARNING`
+> System administration, access control, security hardening
+
+**↓**
+
+**Networking & Web Security** — `LEARNING`
+> TCP/IP, protocols, OWASP vulnerabilities, secure coding
+
+**↓**
+
+**Defensive Security** — `NEXT`
+> Threat modeling, vulnerability assessment, security automation
+
+**↓**
+
+**Personal Security Lab** — `PLANNED`
+> Building hands-on environment for applied learning
+
+</div>
+
+---
+
+<h2 style="color: #00d9ff; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">📦 Featured Projects</h2>
+
+<div style="background: rgba(0, 217, 255, 0.05); border: 1px solid rgba(0, 217, 255, 0.2); border-radius: 8px; padding: 20px; margin: 15px 0;">
+  
 ### TwoOfUs
-<div align="center">
-  
-**An AI-powered relationship companion**
+**AI-powered relationship companion** — Full-stack development with real-world AI integration
 
-Built with **Next.js** • **TypeScript** • **Supabase** • **AI Integration**
+Helps partners communicate better through AI-assisted insights, context understanding, guided missions, and relationship reflection.
 
-TwoOfUs helps partners communicate better through AI-assisted story summaries, context understanding, guided missions, reflection prompts, and relationship insights. Designed to strengthen connection and understanding between two people.
-
-[![Repository](https://img.shields.io/badge/View%20Repository-181818?style=flat-square&logo=github)](https://github.com/alfiedafa3/VD-TwoOfUs)
-[![Tech Stack](https://img.shields.io/badge/Full%20Stack-Next.js%20%2B%20AI-00d9ff?style=flat-square)](https://github.com/alfiedafa3/VD-TwoOfUs)
+**Stack:** Next.js • TypeScript • Supabase • AI  
+**Repository:** [github.com/alfiedafa3/VD-TwoOfUs](https://github.com/alfiedafa3/VD-TwoOfUs)  
+**Status:** Active Development
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 style="color: #00d9ff; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">🔬 Security Lab</h2>
 
-<div align="center">
+<div style="background: rgba(100, 100, 100, 0.03); border-left: 3px solid #666; padding: 15px 20px; margin: 15px 0;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfiedafa3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)
+**Personal Security Lab** — `STATUS: PLANNED`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiedafa3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9)
+Building a personal environment for applied security learning and experimentation.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alfiedafa3&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&currStreakLabel=00d9ff)
+**Future Areas:**
+- Web Security Testing & Analysis
+- Network Security & Analysis
+- Linux Security Hardening
+- Defensive Security Tools
+- Vulnerability Assessment
+- Security Automation Scripts
 
-</div>
-
----
-
-## 🔗 Connect
-
-Let's collaborate, discuss security, or build something together:
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-alfiedafa3-00d9ff?style=flat-square&logo=github&logoColor=00d9ff)](https://github.com/alfiedafa3)
+*Labs, CTFs, write-ups, and experiments will be documented here as they develop.*
 
 </div>
 
 ---
 
-<div align="center">
+<h2 style="color: #00d9ff; border-bottom: 2px solid #00d9ff; padding-bottom: 8px;">📖 Build Log</h2>
 
-<img src="https://komarev.com/ghpvc/?username=alfiedafa3&style=flat-square&color=00d9ff" alt="Profile views" />
+<div style="color: #c9d1d9; font-size: 0.95em; line-height: 1.8;">
 
-<p style="color: #555; font-size: 0.9em; margin-top: 30px;">
-  <em>"The only way to learn security is to build, break, and understand."</em>
-</p>
+**2026**
+- → **GitHub Profile** — Building public developer identity and security learning documentation
+- → **TwoOfUs** — AI-powered relationship companion with full-stack architecture
 
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px;">
+  <h2 style="color: #00d9ff; border-bottom: 2px solid #00d9ff; display: inline-block; padding-bottom: 8px;">🔗 Connect</h2>
+  <br><br>
+  <a href="https://github.com/alfiedafa3" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/GitHub-alfiedafa3-00d9ff?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center" style="padding-top: 20px; border-top: 1px solid rgba(0, 217, 255, 0.1); margin-top: 30px;">
+  <p style="color: #555; font-size: 0.85em;">Serious about security. Learning continuously. Building real systems.</p>
 </div>
